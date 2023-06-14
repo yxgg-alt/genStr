@@ -12,16 +12,16 @@
     "website": "https://telegram.me/ks_projects",
     "env": {
         "APP_ID": {
-            "description": "Get this value from my.telegram.org!"
+            "description": "29920607"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org!"
+            "description": "1dab27a6d03937f9c0a6ef2dbee6212d"
         },
         "BOT_TOKEN": {
-            "description": "Get it from @BotFather"
+            "description": "6288595309:AAGuk-0_CdQtdCSq3x9918MfG-Il6HUqUNo"
         },
         "APP_NAME": {
-            "description": "you Heroku app name!"
+            "description": "Ryanmoser"
         },
         "API_KEY": {
             "description": "Get it from Heroku accounts settings!"
